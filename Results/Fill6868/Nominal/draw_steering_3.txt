@@ -1,0 +1,32 @@
+
+  Plot info:
+   title: Nominal beams position in VdM Scan with Fill6868
+   
+  X axis:
+   min: 1010
+   max: 1310
+   
+  Y axis:
+   min: -500
+   max:  500
+
+  Timestamp: 
+   zero value: 1530351900
+     plot min: 1530412700
+     plot max: 1530429800
+  
+  B1_H:    
+    draw: true
+   color: 879
+   
+  B1_V:    
+    draw: true
+   color: 602
+   
+  B2_H:    
+    draw: true
+   color: 632
+   
+  B2_V:    
+    draw: true
+   color: 612

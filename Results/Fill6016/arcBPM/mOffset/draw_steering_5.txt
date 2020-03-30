@@ -1,0 +1,36 @@
+
+  Plot info:
+     pretitle: arcBPM
+     endtitle: VdM Scan with Fill6016
+   
+  X axis:
+   min:    0
+   max: 1000
+   
+  Y axis:
+   min:  -50
+   max:   50
+
+  Timestamp: 
+   zero value: 1501213500 
+     plot min: 1501213500
+     plot max: 1501273500
+     
+  Nominal data:
+     Y cut: 0.1
+  
+  B1_H:    
+    draw: true
+   color: 879
+   
+  B1_V:    
+    draw: true
+   color: 602
+   
+  B2_H:    
+    draw: true
+   color: 632
+   
+  B2_V:    
+    draw: true
+   color: 612

@@ -1,0 +1,81 @@
+
+  Comment: Fill7443
+
+  Plot info:
+     t/itle:     VdM Scan with Fill7443
+     title:
+     t/op-left:  #font[61]{LHC Beam Position Monitors}
+     top-left:  #font[61]{LHC Beam Positions}
+     top-right: 2018 PbPb (5.02 TeV)
+   
+  X axis:
+   m/in:    0
+   m/ax:  210
+   
+   m/in:  185
+   m/ax:  200
+   
+   min:  188
+   max:  191
+   
+  Y axis Nominal:
+   min: -100
+   max:  100
+
+  Y axis BPM:
+   min: -15
+   max:  10
+   
+  Labels:
+    ["x",       0.061,  22.892,  6.5,   55.0]
+    ["y",       0.061,  25.759,  6.5,   55.0]
+    ["em",      0.061,  24.317,-12.5,  -61.0]
+    ["x",       0.061,  39.641,  6.5,   80.0]
+    ["y",       0.061,  49.350,  6.5,   80.0]
+    ["vdM",     0.061,  44.533,-12.5,  -85.0]
+    ["x",       0.061,  65.617,  6.5,   80.0]
+    ["y",       0.061,  74.950,  6.5,   80.0]
+    ["vdM",     0.061,  70.317,-12.5,  -85.0]
+    ["y",       0.061,  99.610,  6.5,   60.0]
+    ["offset x",0.061,  99.610,-12.5,  -70.0]
+    ["x",       0.061, 120.934,  6.5,   60.0]
+    ["offset y",0.061, 120.934,-12.5,  -70.0]
+    ["xy",      0.061, 142.317,  6.5,   60.0]
+    ["xy",      0.061, 159.092,  6.5,   60.0]
+    ["diag",    0.061, 150.717,-12.5,  -70.0]
+    ["x",       0.061, 174.208,  6.5,   80.0]
+    ["y",       0.061, 183.592,  6.5,   80.0]
+    ["vdM",     0.061, 178.950,-12.5,  -85.0]
+    ["xy",      0.061, 193.480,  6.5,   60.0]
+    ["sep",     0.061, 193.480,-12.5,  -70.0]
+
+  Timestamp: 
+   zero value: 1542211800
+     plot min: 1542211800
+     plot max: 1542233400
+     
+  Orbit Drift:
+     min indent:  0
+     max length: 60
+     
+  Nominal data:
+     Y cut: 0.1
+  
+  B1_H:    
+    draw: true
+   color: 879
+   
+  B1_V:    
+    draw: true
+   color: 602
+   
+  B2_H:    
+    draw: true
+   color: 632
+   
+  B2_V:    
+    draw: true
+   color: 612
+   
+  BPM2:
+   color: 417

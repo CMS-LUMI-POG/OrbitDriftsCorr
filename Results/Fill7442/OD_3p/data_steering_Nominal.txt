@@ -1,0 +1,29 @@
+
+Data file: /Users/turkot/DESY/Postdoc/CMS/Lumi/OrbitDrifts/Repository/OrbitDriftsCorr/Data/Nominal/Fill7442/vdm_Nominal_Fill7442_n04.csv
+D/ata file: /Users/turkot/DESY/Postdoc/CMS/Lumi/OrbitDrifts/Repository/OrbitDriftsCorr/Data/Nominal/Fill7442/vdm_Nominal_Fill7442_n04_flat.csv
+
+Scan:
+    
+  Names: ["emX1", "emY1", "L1Y", "L1X", "X1", "Y1", "offY1", "offX1", "offX2", "XY1", "XY2"]
+  
+  TimeWindows: [[1542136154, 1542136383],[1542136391, 1542136620],[1542137597, 1542138346],[1542138422, 1542139170],[1542139705, 1542140192],[1542140262, 1542140752],[1542141840, 1542143099],[1542143108, 1542144353],[1542144358, 1542145619],[1542146035, 1542146905],[1542146980, 1542147848]]
+  
+  T/imeWindows: [[1542136153, 1542136384],[1542136390, 1542136621],[1542137596, 1542138347],[1542138421, 1542139171],[1542139704, 1542140193],[1542140261, 1542140753],[1542141839, 1542143100],[1542143107, 1542144354],[1542144357, 1542145620],[1542146034, 1542146906],[1542146979, 1542147849]]
+    
+  
+Columns:
+
+  Timestamp: 5
+      scale: 0.016666667
+  
+  B1_H:    20
+   scale: 1000
+   
+  B1_V:    19
+   scale: 1000
+   
+  B2_H:    22
+   scale: 1000
+   
+  B2_V:    21
+   scale: 1000

@@ -1,0 +1,19 @@
+
+Data file: /Users/turkot/DESY/Postdoc/CMS/Lumi/OrbitDrifts/Repository/OrbitDriftsCorr/Data/Nominal/Fill6380/vdm_Nominal_Fill6380_n02.csv
+
+Columns:
+
+  Timestamp: 5
+      scale: 0.016666667
+  
+  B1_H:    20
+   scale: 1000
+   
+  B1_V:    19
+   scale: 1000
+   
+  B2_H:    22
+   scale: 1000
+   
+  B2_V:    21
+   scale: 1000

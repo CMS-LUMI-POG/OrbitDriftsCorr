@@ -1,0 +1,36 @@
+
+  Plot info:
+     pretitle: DOROS
+     endtitle: VdM Scan with Fill4634
+   
+  X axis:
+   min:   0
+   max: 105
+   
+  Y axis:
+   min: -400
+   max:  400
+
+  Timestamp: 
+   zero value: 1447945200 
+     plot min: 1447945200
+     plot max: 1447969200
+     
+  Nominal data:
+     Y cut: 0.1
+  
+  B1_H:    
+    draw: true
+   color: 879
+   
+  B1_V:    
+    draw: true
+   color: 602
+   
+  B2_H:    
+    draw: true
+   color: 632
+   
+  B2_V:    
+    draw: true
+   color: 612

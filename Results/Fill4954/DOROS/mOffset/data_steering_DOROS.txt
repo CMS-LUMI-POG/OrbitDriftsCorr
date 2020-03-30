@@ -1,0 +1,35 @@
+
+Data file: /Users/turkot/DESY/Postdoc/CMS/Lumi/OrbitDrifts/Repository/OrbitDriftsCorr/Data/DOROS/Fill4954/DOROS_Fill4954_Timber.csv
+
+Offsets:
+
+  Timestamps: [1464336119, 1464348464, 1464350758]
+                 B1_H     B1_V     B2_H     B2_V 
+  OffValues: [[204.35, -25.65, 68.65, -231.2],[206.9, -20.55, 67.45, -229],[205.45, -19.75, 69.45, -227.9]]
+
+
+Columns:
+
+  Timestamp: 
+      column: 1
+       scale: 0.016666667
+  
+  B1_H:
+       L:    2
+       R:    6
+   scale: 1000
+   
+  B1_V:
+       L:    3
+       R:    7
+   scale: 1000
+
+  B2_H:
+       L:    4
+       R:    8
+   scale: 1000
+
+  B2_V:
+       L:    5
+       R:    9
+   scale: 1000

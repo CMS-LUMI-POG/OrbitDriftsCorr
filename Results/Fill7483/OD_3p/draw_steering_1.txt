@@ -1,0 +1,59 @@
+
+  Comment: Fill7483
+
+  Plot info:
+     t/itle:     VdM Scan with Fill7483
+     title:
+     top-left:  #font[61]{LHC Beam Position Monitors}
+     top-right: 2018 (12.7 TeV)
+   
+  X axis:
+   min:    0
+   max:   60
+   
+  Y axis Nominal:
+   min: -100
+   max:  100
+
+  Y axis BPM:
+   min: -5
+   max:  10
+   
+  Labels:
+    ["y",       0.061,  15.44,   7.0,   70.0]
+    ["x",       0.061,  29.185,  7.0,   70.0]
+    ["LSC",     0.061,  22.315, -3.0,  -80.0]
+    ["x",       0.061,  46.6075, 7.0,   70.0]
+    ["y",       0.061,  51.8225, 7.0,   70.0]
+    ["vdM",     0.061,  49.1975,-3.0,  -80.0]
+
+  Timestamp: 
+   zero value: 1543463700
+     plot min: 1543463700
+     plot max: 1543467300
+     
+  Orbit Drift:
+     min indent:  1
+     max length: 60
+     
+  Nominal data:
+     Y cut: 0.1
+  
+  B1_H:    
+    draw: true
+   color: 879
+   
+  B1_V:    
+    draw: true
+   color: 602
+   
+  B2_H:    
+    draw: true
+   color: 632
+   
+  B2_V:    
+    draw: true
+   color: 612
+   
+  BPM2:
+   color: 417

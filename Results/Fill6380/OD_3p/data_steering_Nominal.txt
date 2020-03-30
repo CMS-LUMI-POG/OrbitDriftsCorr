@@ -1,0 +1,26 @@
+
+Data file: /Users/turkot/DESY/Postdoc/CMS/Lumi/OrbitDrifts/Repository/OrbitDriftsCorr/Data/Nominal/Fill6380/vdm_Nominal_Fill6380_n02.csv
+
+Scan:
+    
+  Names: ["BIX1","BIY1","BIX2","BIY2","X1","Y1"]
+  
+  TimeWindows: [[1510430481, 1510431482], [1510431686, 1510432693], [1510433199, 1510434202], [1510434351, 1510435349], [1510435906, 1510436503], [1510436695, 1510437294]]
+    
+  
+Columns:
+
+  Timestamp: 5
+      scale: 0.016666667
+  
+  B1_H:    20
+   scale: 1000
+   
+  B1_V:    19
+   scale: 1000
+   
+  B2_H:    22
+   scale: 1000
+   
+  B2_V:    21
+   scale: 1000

@@ -1,0 +1,38 @@
+
+Data file: /Users/turkot/DESY/Postdoc/CMS/Lumi/OrbitDrifts/Repository/OrbitDriftsCorr/Data/arcBPM/Fill6868/Take3_forOlena/CMS_arc_Fill6868_pos_1150_1330.csv
+
+Offsets:
+
+  Timestamps: [1530352202, 1530356377]
+                 B1_H     B1_V     B2_H     B2_V
+  OffValues: [[2.2999346, 1.7913270, 0.4892580, 0.1820605],[-8.4026, -1.74887, -1.4419, 2.25172]]
+                 
+  O/ffValues: [[0.0999346, 0.791327, -0.160742, -0.0679395],[-8.4026, -1.74887, -1.4419, 2.25172]]
+
+  
+Columns:
+
+  Timestamp: 
+      column: 1
+       scale: 0.016666667
+  
+  B1_H:
+       L:    2
+       R:    3
+   scale:    1
+   
+  B1_V:
+       L:    4
+       R:    5
+   scale:    1
+
+  B2_H:
+       L:    6
+       R:    7
+   scale:    1
+
+  B2_V:
+       L:    8
+       R:    9
+   scale:    1
+

@@ -1,0 +1,36 @@
+
+Data file: /Users/turkot/DESY/Postdoc/CMS/Lumi/VdM/arcBPMs/Data/Fill4634/Take_190117/Merge/CMS_arc_Fill4634_pos_190117.csv
+
+Offsets:
+
+  Timestamps: [1447945970, 1447961765, 1447963612, 1447966109]
+                 B1_H     B1_V     B2_H     B2_V
+  OffValues: [[-0.854928, -0.120598, -1.09179, 0.083105],[-12.1283, 0.240196, 1.25078, -2.10444],[-10.2499, 1.45214, 0.973655, -2.06924],[-9.78277, 2.49871, 2.79699, -1.46476]]
+
+  
+Columns:
+
+  Timestamp: 
+      column: 1
+       scale: 0.016666667
+  
+  B1_H:
+       L:    2
+       R:    3
+   scale:    1
+   
+  B1_V:
+       L:    4
+       R:    5
+   scale:    1
+
+  B2_H:
+       L:    6
+       R:    7
+   scale:    1
+
+  B2_V:
+       L:    8
+       R:    9
+   scale:    1
+
