@@ -1,5 +1,5 @@
 
-Data file: /Users/turkot/DESY/Postdoc/CMS/Lumi/OrbitDrifts/Repository/OrbitDriftsCorr/Data/Nominal/Fill6380/vdm_Nominal_Fill6380_n02.csv
+Data file: ../../../Data/Nominal/Fill6380/vdm_Nominal_Fill6380_n02.csv
 
 Scan:
     

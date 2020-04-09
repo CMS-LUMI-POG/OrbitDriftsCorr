@@ -1,5 +1,5 @@
 
-Data file: /Users/turkot/DESY/Postdoc/CMS/Lumi/OrbitDrifts/Repository/OrbitDriftsCorr/Data/arcBPM/Fill6380/CMS_arc_Fill6380_pos_merged.csv
+Data file: ../../../Data/arcBPM/Fill6380/CMS_arc_Fill6380_pos_merged.csv
 
 Title: arcBPM
 

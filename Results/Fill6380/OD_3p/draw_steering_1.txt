@@ -11,6 +11,9 @@
    min:    0
    max:  140
    
+   m/in:   10
+   m/ax:  110
+   
   Y axis Nominal:
    min: -500
    max:  500
@@ -34,6 +37,9 @@
    zero value: 1510429320
      plot min: 1510429440
      plot max: 1510437600
+     
+     p/lot min: 1510430220
+     p/lot max: 1510435620
      
   Orbit Drift:
      min indent:  1

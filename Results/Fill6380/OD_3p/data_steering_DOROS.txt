@@ -1,5 +1,5 @@
 
-Data file: /Users/turkot/DESY/Postdoc/CMS/Lumi/OrbitDrifts/Repository/OrbitDriftsCorr/Data/DOROS/Fill6380/DOROS_Fill6380_Timber.csv
+Data file: ../../../Data/DOROS/Fill6380/DOROS_Fill6380_Timber.csv
 
 Title: DOROS
 
