@@ -1,0 +1,40 @@
+
+Output file:
+
+  Name: CMS_arc_Fill4945_pos_merged.csv
+
+Input Columns:
+
+  B1_L:
+    T:  1
+    H:  2
+    V:  4
+    
+  B1_R:
+    T:  1
+    H:  2
+    V:  4
+    
+  B2_L:
+    T:  1
+    H:  2
+    V:  4
+    
+  B2_R:
+    T:  1
+    H:  2
+    V:  4
+
+Data files:
+
+  B1_L:
+    Raw/BPM.33L5.B1_9L5_POS.csv
+    
+  B1_R:
+    Raw/BPM.9R5.B1_33R5_POS.csv
+    
+  B2_L:
+    Raw/BPM.33L5.B2_9L5_POS.csv
+    
+  B2_R:
+    Raw/BPM.9R5.B2_33R5_POS.csv
