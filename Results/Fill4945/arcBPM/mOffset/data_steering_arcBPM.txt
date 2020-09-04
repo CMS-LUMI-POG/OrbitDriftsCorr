@@ -3,9 +3,9 @@ Data file: /afs/cern.ch/work/g/gkrintir/private/OrbitDriftsCorr/Data/arcBPM/Fill
 
 Offsets:
 
-  Timestamps: [1463608021]
+  Timestamps: [1463604421]
                  B1_H     B1_V     B2_H     B2_V
-  OffValues: [-0.596555, -0.303211, 0.108505, 0.582112]
+  OffValues: [-0.416558, -0.014906, 0.412177, 0.462548]
 
   
 Columns:

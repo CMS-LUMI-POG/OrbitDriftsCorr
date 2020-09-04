@@ -12,9 +12,9 @@
    max:  10
 
   Timestamp: 
-   zero value: 1463608021 
-     plot min: 1463608023
-     plot max: 1463610600
+   zero value: 1463604421
+     plot min: 1463604423
+     plot max: 1463607000
      
   Nominal data:
      Y cut: 0.1
